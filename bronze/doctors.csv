@@ -1,0 +1,21 @@
+doctor_id,name,department_id,department_name
+1,Dr. Arjun,2,Surgery
+2,Dr. Kavya,8,ENT
+3,Dr. Ramesh,7,Radiology
+4,Dr. Priya,10,General Medicine
+5,Dr. Manish,4,Neurology
+6,Dr. Rekha,3,Cardiology
+7,Dr. Vivek,1,Emergency Medicine
+8,Dr. Sowmya,10,General Medicine
+9,Dr. Kiran,3,Cardiology
+10,Dr. Lakshmi,6,Dermatology
+11,Dr. Anil,3,Cardiology
+12,Dr. Meena,9,Nephrology
+13,Dr. Ganesh,3,Cardiology
+14,Dr. Nandini,7,Radiology
+15,Dr. Rahul,2,Surgery
+16,Dr. Divya,7,Radiology
+17,Dr. Mohan,2,Surgery
+18,Dr. Radha,3,Cardiology
+19,Dr. Santosh,1,Emergency Medicine
+20,Dr. Sneha,8,ENT

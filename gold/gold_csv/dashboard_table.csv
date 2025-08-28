@@ -1,0 +1,10 @@
+department_name,total_patients,total_revenue,total_appointments,total_treatments
+Cardiology,12711,128518361.0,12711,12711
+Dermatology,2529,25401374.0,2529,2529
+Emergency Medicine,5052,50845107.0,5052,5052
+ENT,4868,48607244.0,4868,4868
+General Medicine,4858,48263556.0,4858,4858
+Nephrology,2455,24416894.0,2455,2455
+Neurology,2559,25395672.0,2559,2559
+Radiology,7420,75221545.0,7420,7420
+Surgery,7548,77137223.0,7548,7548

@@ -1,0 +1,32 @@
+disease,department_name,total_treatments
+Heart Attack,Cardiology,7190
+Valve Disorder,Cardiology,6915
+Hypertension,Cardiology,6820
+Arrhythmia,Cardiology,6690
+Kidney Stone (CT),Radiology,5646
+Pneumonia (X-ray),Radiology,5568
+Bone Fracture (MRI),Radiology,5490
+Hernia,Surgery,4221
+Appendicitis,Surgery,4194
+Gallstones,Surgery,4185
+Fracture,Surgery,4158
+Hearing Loss,ENT,2856
+Sinusitis,ENT,2834
+Sepsis,Emergency Medicine,2810
+Pneumonia,Emergency Medicine,2798
+Tonsillitis,ENT,2760
+Heart Failure,Emergency Medicine,2758
+Ear Infection,ENT,2722
+Asthma Attack,Emergency Medicine,2676
+Eczema,Dermatology,1444
+Stroke,Neurology,1431
+Kidney Failure,Nephrology,1406
+Migraine,Neurology,1395
+UTI,Nephrology,1395
+Parkinson’s Disease,Neurology,1392
+Acne,Dermatology,1389
+Psoriasis,Dermatology,1360
+Epilepsy,Neurology,1359
+Skin Allergy,Dermatology,1358
+Nephrotic Syndrome,Nephrology,1354
+Chronic Kidney Disease,Nephrology,1343
